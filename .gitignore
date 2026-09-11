@@ -4,3 +4,4 @@ dist/
 !.env.example
 .sites-runtime/
 .DS_Store
+*.tsbuildinfo
